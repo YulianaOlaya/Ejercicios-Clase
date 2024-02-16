@@ -2,7 +2,7 @@
 Mi primer programa
 ------------------
 
-Ingrese un entero y se imprime de 0 a ese n
+Ingrese un entero y se imprime en la pantalla
 "25"
 
 
@@ -19,5 +19,5 @@ Salida:
 25
 150
 """
-numero = input("")
-print(numero)
+n = input("")
+print(n)
